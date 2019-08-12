@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Resume</title>
+        
+    </head>
+    <body>
+        
+        
+        <table border="1" width="100%">
+            <tr>
+                <td colspan="2">
+                    <h1 align="center"> RESUME</h1>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <h3 align="left">SHARDUL.M.DABGAR</h3>
+                </td>                
+            </tr>
+            <tr>
+                <td>address:23,laxminarayan so,padra,vadodara. </td>
+                <td rowspan="3"><img src="img\pic.jpg" width="200" align="right"></td>
+            </tr>
+            <tr>
+                <td>Email: sharduldabgar217@gmail</td>
+            </tr>
+            <tr>
+                <td>mobile no: 7990144673</td>
+            </tr>
+            <tr>
+                <td colspan="2">CAREER OBJECTIVE:
+                    <p>to develop a bright career in the field of information technology.Appling my knowledge,creativity and skills and helping society to be advanced in th field of technology.</p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">PERSONAL SKILLS:
+                    <p>1. dedication for my work</p>
+                    <p>2. willingness for work</p>
+                    <p>3. ever positive never negetive</p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">ACADEMIC RECORDS:
+                    <p>
+                        
+                    </p>
+                    <table border="1">
+                        <tr>
+                            <th>Exam</th>
+                            <th>Name of collage/institute</th>
+                            <th>university</th>
+                            <th>streem</th>
+                            <th>percentage/SPI</th>
+                            <th>year of passing</th>
+                        </tr>
+                        <tr>
+                            <td>BE 3rd SEM</td>
+                            <td>SVIT,vasad</td>
+                            <td>GTU</td>
+                            <td>IT</td>
+                            <td>7.64</td>
+                            <td>DEC-2018</td>
+                        </tr>
+                        <tr>
+                            <td>BE 2nd SEM</td>
+                            <td>SVIT,vasad</td>
+                            <td>GTU</td>
+                            <td>IT</td>
+                            <td>7.23</td>
+                            <td>MAY-2018</td>
+                        </tr>
+                        <tr>
+                            <td>BE 1st SEM</td>
+                            <td>SVIT,vasad</td>
+                            <td>GTU</td>
+                            <td>IT</td>
+                            <td>7.33</td>
+                            <td>JAN-2018</td>
+                        </tr>
+                        <tr>
+                            <td>H.s.c</td>
+                            <td>ADITI SCIENCE SCHOOL</td>
+                            <td>G.H.S.E.B</td>
+                            <td>SCIENCE</td>
+                            <td>74%</td>
+                            <td>MAR-2017</td>
+                        </tr>
+                        <tr>
+                            <td>S.S.C</td>
+                            <td>ZEN SCHOOL</td>
+                            <td>G.H.S.E.B</td>
+                            <td>10th</td>
+                            <td>83.51%</td>
+                            <td>MAR-2015</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">TECHNICAL SKILLS:
+                    <p>1. c</p>
+                    <p>2. Basic c++</p>
+                    <p>3. Basic HTML</p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">SELF INFORMATION:
+                    <p>
+
+                    </p>
+                    <table border="1">
+                        <tr>
+                            <th>NAME:</th>
+                            <th>DABGAR SHARDUL MAHESHKUMAR</th>
+                        </tr>
+                        <tr>
+                            <td>Birth date:</td>
+                            <td>21st july 2000</td>
+                        </tr>
+                        <tr>
+                            <td>Maritial status:</td>
+                            <td>single</td>
+                        </tr>
+                        <tr>
+                            <td>Nationality:</td>
+                            <td>Indian</td>
+                        </tr>
+                        <tr>
+                            <td>Address:</td>
+                            <td>23-B Laxminarayan so,Behind gayatri temple,padra
+                                Dist:Vadodara,Gujarat,India.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Language known:</td>
+                            <td>English,Hindi,Gujarati.</td>
+                        </tr>
+                        <tr>
+                            <td>Hobbies:</td>
+                            <td>Badminton,swimming,skating,play tabla.</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">DECLARATION:
+                    <p>I, Mr.Shardul.M.Dabgar hereby declare the above mentioned information is correct as per my best knowledge and I bear the responsibility for the correctness of the above mentioned particulars. 
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <h3 align="right">Your Sincerely,</h3>
+                    <h4 align="right">shardul dabgar.</h4>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
